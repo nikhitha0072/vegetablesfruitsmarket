@@ -1,0 +1,6 @@
+{
+  "name": "Vegetables & Fruits Market",
+  "description": "A rich full-stack market shop for vegetables and fruits, featuring an AI Smart Assistant & Assistant Meal Planner, sorting/filtering, cart management, and simulated checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
